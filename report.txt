@@ -1,0 +1,24 @@
+1. Hours to complete the project: 33 hours
+
+2. Provide a short description of how you approached each problem, issues you 
+   encountered, and how you resolved those issues.
+
+   Problem 1 (Markov Model Data Type): I used the API in the project checklist to get an understanding of what should be done inside the constructor but I had alot of issues while doing some of the calculations. I started to print out the values so that I can ensure that the proper value is inside the variables when they are called in different calculations. That helped alot with the slicing of the string because iterating the slicing is a bit difficult. 
+
+   Problem 2 (Random Text Generator): Implementing the driver for this problem was not very difficult becuase while I was making the constructor I was also testing every method to ensure that operates successfully. It was because of this all that was left for this problem was a function call to gen() which calls rand() in order to get random characters for the text.
+
+   Problem 3 (Noisy Message Decoder): I was completely lost on how to approach this probkem so I started off by first learning how to replace unwanted characters in a string then I referred to the project checklist to figure out how the probabilities were calculated. Once i figured that part out everything else was simplified.
+
+3. Did you receive help from anyone? List their names, status (classmate, 
+   CS110 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+I did not receive any help from anyone other than my instructor in the discussion sessiom.
+   ...                ...          ...
+
+4. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+  Although this project was challenging I enjoyed doing it because I believe that my level of programming went up while doing the calculations for the slicing of the strings. I also realized that the use of dictionaries is a better approach than an array in terms of accessing the content within them.
